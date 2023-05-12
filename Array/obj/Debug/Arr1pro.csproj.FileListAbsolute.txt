@@ -1,0 +1,6 @@
+S:\.net\Array\Array\bin\Debug\Array.exe.config
+S:\.net\Array\Array\bin\Debug\Array.exe
+S:\.net\Array\Array\bin\Debug\Array.pdb
+S:\.net\Array\Array\obj\Debug\Arr1pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Array\obj\Debug\Array.exe
+S:\.net\Array\Array\obj\Debug\Array.pdb

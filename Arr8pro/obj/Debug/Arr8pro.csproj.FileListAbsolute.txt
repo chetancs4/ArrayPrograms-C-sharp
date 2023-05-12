@@ -1,0 +1,6 @@
+S:\.net\Array\Arr8pro\bin\Debug\Arr8pro.exe.config
+S:\.net\Array\Arr8pro\bin\Debug\Arr8pro.exe
+S:\.net\Array\Arr8pro\bin\Debug\Arr8pro.pdb
+S:\.net\Array\Arr8pro\obj\Debug\Arr8pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr8pro\obj\Debug\Arr8pro.exe
+S:\.net\Array\Arr8pro\obj\Debug\Arr8pro.pdb

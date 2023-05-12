@@ -1,0 +1,7 @@
+S:\.net\Array\Arr10pro\bin\Debug\Arr10pro.exe.config
+S:\.net\Array\Arr10pro\bin\Debug\Arr10pro.exe
+S:\.net\Array\Arr10pro\bin\Debug\Arr10pro.pdb
+S:\.net\Array\Arr10pro\obj\Debug\Arr10pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr10pro\obj\Debug\Arr10pro.exe
+S:\.net\Array\Arr10pro\obj\Debug\Arr10pro.pdb
+S:\.net\Array\Arr10pro\obj\Debug\Arr10pro.csproj.AssemblyReference.cache

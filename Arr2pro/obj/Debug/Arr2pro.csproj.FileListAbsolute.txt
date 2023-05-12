@@ -1,0 +1,7 @@
+S:\.net\Array\Arr2pro\bin\Debug\Arr2pro.exe.config
+S:\.net\Array\Arr2pro\bin\Debug\Arr2pro.exe
+S:\.net\Array\Arr2pro\bin\Debug\Arr2pro.pdb
+S:\.net\Array\Arr2pro\obj\Debug\Arr2pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr2pro\obj\Debug\Arr2pro.exe
+S:\.net\Array\Arr2pro\obj\Debug\Arr2pro.pdb
+S:\.net\Array\Arr2pro\obj\Debug\Arr2pro.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+S:\.net\Array\Arr16pro\bin\Debug\Arr16pro.exe.config
+S:\.net\Array\Arr16pro\bin\Debug\Arr16pro.exe
+S:\.net\Array\Arr16pro\bin\Debug\Arr16pro.pdb
+S:\.net\Array\Arr16pro\obj\Debug\Arr16pro.csproj.AssemblyReference.cache
+S:\.net\Array\Arr16pro\obj\Debug\Arr16pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr16pro\obj\Debug\Arr16pro.exe
+S:\.net\Array\Arr16pro\obj\Debug\Arr16pro.pdb

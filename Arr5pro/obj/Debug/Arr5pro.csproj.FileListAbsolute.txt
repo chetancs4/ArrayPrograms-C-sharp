@@ -1,0 +1,7 @@
+S:\.net\Array\Arr5pro\bin\Debug\Arr5pro.exe.config
+S:\.net\Array\Arr5pro\bin\Debug\Arr5pro.exe
+S:\.net\Array\Arr5pro\bin\Debug\Arr5pro.pdb
+S:\.net\Array\Arr5pro\obj\Debug\Arr5pro.csproj.AssemblyReference.cache
+S:\.net\Array\Arr5pro\obj\Debug\Arr5pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr5pro\obj\Debug\Arr5pro.exe
+S:\.net\Array\Arr5pro\obj\Debug\Arr5pro.pdb

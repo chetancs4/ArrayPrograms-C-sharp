@@ -1,0 +1,6 @@
+S:\.net\Array\Arr9pro\bin\Debug\Arr9pro.exe.config
+S:\.net\Array\Arr9pro\bin\Debug\Arr9pro.exe
+S:\.net\Array\Arr9pro\bin\Debug\Arr9pro.pdb
+S:\.net\Array\Arr9pro\obj\Debug\Arr9pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr9pro\obj\Debug\Arr9pro.exe
+S:\.net\Array\Arr9pro\obj\Debug\Arr9pro.pdb

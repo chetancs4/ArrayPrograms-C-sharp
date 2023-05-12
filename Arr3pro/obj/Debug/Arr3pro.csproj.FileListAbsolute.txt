@@ -1,0 +1,6 @@
+S:\.net\Array\Arr3pro\bin\Debug\Arr3pro.exe.config
+S:\.net\Array\Arr3pro\bin\Debug\Arr3pro.exe
+S:\.net\Array\Arr3pro\bin\Debug\Arr3pro.pdb
+S:\.net\Array\Arr3pro\obj\Debug\Arr3pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr3pro\obj\Debug\Arr3pro.exe
+S:\.net\Array\Arr3pro\obj\Debug\Arr3pro.pdb

@@ -1,0 +1,6 @@
+S:\.net\Array\Arr11pro\bin\Debug\Arr11pro.exe.config
+S:\.net\Array\Arr11pro\bin\Debug\Arr11pro.exe
+S:\.net\Array\Arr11pro\bin\Debug\Arr11pro.pdb
+S:\.net\Array\Arr11pro\obj\Debug\Arr11pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr11pro\obj\Debug\Arr11pro.exe
+S:\.net\Array\Arr11pro\obj\Debug\Arr11pro.pdb

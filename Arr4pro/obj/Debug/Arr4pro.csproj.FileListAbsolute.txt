@@ -1,0 +1,7 @@
+S:\.net\Array\Arr4pro\bin\Debug\Arr4pro.exe.config
+S:\.net\Array\Arr4pro\bin\Debug\Arr4pro.exe
+S:\.net\Array\Arr4pro\bin\Debug\Arr4pro.pdb
+S:\.net\Array\Arr4pro\obj\Debug\Arr4pro.csproj.CoreCompileInputs.cache
+S:\.net\Array\Arr4pro\obj\Debug\Arr4pro.exe
+S:\.net\Array\Arr4pro\obj\Debug\Arr4pro.pdb
+S:\.net\Array\Arr4pro\obj\Debug\Arr4pro.csproj.AssemblyReference.cache
